@@ -1,1 +1,5 @@
-testTest.class
+testRestricted\testCpfRestricted.class
+testSimulations\postTestApiSimulations.class
+testSimulations\deleteTestApiSimulations.class
+testSimulations\getTestApiSimulations.class
+testSimulations\putTestApiSimulations.class
